@@ -56,7 +56,7 @@ jQuery(document).ready(function($) {
 
 jQuery(window).on('load', function() {
 	jQuery('.demos').isotope({
-		filter: '.homepages',
+		filter: '.adobe',
 		initLayout: true,
 		itemSelector: '.iso-item',
 		layoutMode: 'masonry'
